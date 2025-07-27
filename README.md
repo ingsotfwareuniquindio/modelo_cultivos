@@ -3,9 +3,9 @@ Modelo que predice de acuerdo al tipo de suelo, que cultivos sembrar.
 
 # Instrucciones para probar el model en Google Colab
 
-Crear un proyecto nuevo en Google Colab
-Subir el Dataset cultivos.xlsx a Google Colab
-Ejecutar en cada celda de Google Colab cada uno de los pasos que tiene el repositorio en el siguiente orden:
+1. Crear un proyecto nuevo en Google Colab
+2. Subir el Dataset cultivos.xlsx a Google Colab
+3. Ejecutar en cada celda de Google Colab cada uno de los pasos que tiene el repositorio en el siguiente orden:
      analisis_exploratorio.py
      limpieza_dataset.py
      entrenamiento_dataset.py
