@@ -8,8 +8,8 @@ Modelo que predice de acuerdo al tipo de suelo, que cultivos sembrar.
 3. Ejecutar en cada celda de Google Colab cada uno de los pasos que tiene el repositorio en el siguiente orden:
      - analisis_exploratorio.py
      - limpieza_dataset.py
-     3.3. entrenamiento_dataset.py
-     3.4. interfaz_modelo.py
+     - entrenamiento_dataset.py
+     - interfaz_modelo.py
 
 Al finalizar los pasos anteriores, Google Colab le tuvo que generar esta interfaz
 <img width="1356" height="679" alt="image" src="https://github.com/user-attachments/assets/ed32f13f-04c4-43c4-96f1-8f01f2f6f3fa" />
