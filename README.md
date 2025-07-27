@@ -1,7 +1,7 @@
-# modelo_cultivos
-Modelo que predice de acuerdo al tipo de suelo, que cultivos sembrar.
+# Modelo cultivos
+Modelo que predice de acuerdo al tipo de suelo y componentes, que cultivos sembrar.
 
-# Instrucciones para probar el model en Google Colab
+# Instrucciones para probar el modelo en Google Colab
 
 1. Crear un proyecto nuevo en Google Colab
 2. Subir el Dataset cultivos.xlsx a Google Colab
